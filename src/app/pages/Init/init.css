@@ -1,0 +1,10 @@
+/* Si estás usando un archivo CSS */
+.text-transparent {
+    color: transparent;
+  }
+  
+  .bg-clip-text {
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
